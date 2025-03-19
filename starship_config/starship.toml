@@ -1,0 +1,21 @@
+[git_branch]
+symbol = '🌱 '
+
+[nodejs]
+format = 'via [📦 node $version](208 bold) '
+
+[cmd_duration]
+min_time = 500
+format = 'em [$duration](bold yellow)'
+
+[character]
+success_symbol = "[➜ ](green)"
+error_symbol = "[✖ ](red)"
+
+[package]
+#format = 'via [🎁 $version](208 bold) '
+format=''
+
+[git_status]
+stashed = "" 
+untracked = ""
