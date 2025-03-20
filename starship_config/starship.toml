@@ -19,3 +19,7 @@ format=''
 [git_status]
 stashed = "" 
 untracked = ""
+
+[directory]
+truncation_length = 1
+truncation_symbol = ""
